@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: black;
+}
+p,
+span,
+img {
+  color: white;
+  display: inline;
+}
+.lang,
+.charge,
+.date {
+  text-align: end;
+  width: 100px;
+  float: left;
+}
+
+ul,
+li {
+  list-style: none;
+}
+main{
+    margin-top: 150px;
+    margin-left: 5%;
+    text-align: center;
+}
+.UU{
+    font-size: 6px;
+}
+.buttons{
+    text-align: center;
+}
